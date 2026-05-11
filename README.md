@@ -12,9 +12,12 @@ Nesta atividade, você irá fazer exercícios de programação com o objetivo de
 
 <<  COLOQUE A IMAGEM - LISTAGEM DE TÍTULOS - AQUI >>
 ![javascript](public/img/filmes.png)
+
 <<  COLOQUE A IMAGEM - CÁLCULO DE MÉDIAS - AQUI >>
 ![javascript](public/img/medias.png)
+
 <<  COLOQUE A IMAGEM - RESUMO DE VERIFICAÇÕES (SOME E EVERY) - AQUI >>
 ![javascript](public/img/anogenero.png)
+
 <<  COLOQUE A IMAGEM - PÁGINA COM O RESUMO - AQUI >>
 ![javascript](public/img/tela.png)
